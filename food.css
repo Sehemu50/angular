@@ -1,0 +1,145 @@
+body{
+    background-color: lightblue;
+    
+}
+.p{
+    background-color: rgb(235, 227, 227);
+    color: rgb(18, 19, 17);
+    padding: 1%;
+    display: inline-block;
+    margin-left: 400px;
+    border-radius: 40px;
+    text-transform:capitalize;
+    
+}
+
+
+input{
+    
+   background-color: white;
+   border-radius: 50px;
+   border-top: 50px;
+   border-width: 2px;
+   
+   border-bottom-left-radius: 50px;
+   border-color: blue;
+   border-right-color: rgb(201, 8, 137);
+   font-weight: bold;
+
+
+
+   
+   
+   
+
+
+}
+.sign{
+    flex-grow: 1;
+   
+    /* float: right;
+    border: 1px solid black;
+    border-radius: 10px; */
+
+} 
+
+
+
+
+h2{
+    background-color: beige;
+    color: cornflowerblue;
+    margin-right: 1%;
+    padding: 1%;
+    border-radius: 50px;
+    text-shadow: 2px 2px 1px rgb(212, 163, 163);
+    
+    
+    border: 8px;
+    
+    border-color: fuchsia;
+    text-align: center;
+    
+
+
+
+}
+.for{
+    margin-left: 1100px;
+    text-align: center;
+}
+
+
+.lobo{
+    background-color: gray;
+    
+    text-align: right;
+    padding: 20px;
+    
+}
+
+.lobo > a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.lobo > a:hover{
+    background-color: rgb(236, 218, 15);
+    color: red ;
+    border-radius: 50%;
+    
+
+}
+.footer > img{
+    width: 70px;
+    padding-right: 3000px;
+    
+}
+
+a{
+    
+    
+    padding: 20px;
+    width: 20px;
+}
+.mg{
+    /* width: 2px;
+    padding: 20px; */
+    flex-grow: 1;
+    
+    
+}
+.kb{
+    /* padding: 70px;
+    margin-left: 300px;
+    margin-bottom: 100px;   */
+    flex-grow: 2;
+    
+} 
+.footer{
+    text-align: center;
+    padding-right: 50px;
+}
+.contaner1{
+    display: flex;
+    
+    
+}
+
+.sub{border: none;
+text-align: center;
+cursor: pointer;
+text-transform: uppercase;
+outline: none;
+overflow: hidden;
+position: relative;
+color: #fff;
+font-size: 14px;
+background-color: #222;
+padding: 11px 35px;
+margin: 0 auto;
+box-shadow: 2px 3px 6px rgb(0 0 0 / 30%);
+
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: lightskyblue;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(fish/Bright.jpg);}
+
+
+h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.fom{
+    margin-top: -10px;
+    margin-left: 310px;
+    ;
+    width: 50%;
+    height: 500px;
+   
+    text-align: center;
+    margin-top: 5px;
+    padding-left: 10px;
+    text-transform: capitalize;
+    color: white;
+    
+    
+}
+form{
+    border-style: double;
+    background-color:lightskyblue
+}
+.fom input{
+    
+    height: 20px;
+    border-radius: 10px;
+}

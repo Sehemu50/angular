@@ -1,0 +1,30 @@
+
+
+#labo{
+   
+    padding-left: 340px;
+}
+
+.pure{
+    width: 50px;
+    
+    padding-left: 390px;
+}
+.dev{
+    display: flex;
+    
+}
+.pwe{
+    
+    
+    flex-grow: 1;
+}
+.jo{
+    flex-grow: 10;
+}
+.toge{
+    flex-grow: 10;
+}
+.p{
+    flex-grow: 10;
+}
